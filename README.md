@@ -1,4 +1,4 @@
-![](header.png?raw=true)
+![](cd18decomp_header.png?raw=true)
 
 A WIP decompilation of Sonic CD '18, a official RSDKv4 port of the 2011 Sonic CD Remake.
 
