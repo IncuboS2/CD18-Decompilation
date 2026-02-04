@@ -1,11 +1,9 @@
 ![](cd18decomp_header.png?raw=true)
 
-A WIP decompilation of Sonic CD '18, a official RSDKv4 port of the 2011 Sonic CD Remake.
+A WIP decompilation of Sonic CD '18, a official RSDKv4 port of the 2011 Sonic CD Remake released only for the Amazon Fire TV.
 
 # **You have to get by yourself a copy of this version of the Sonic CD remake!**
-+ Without those assets, this decompilation will not run.
-
-+ You have to gather this copy from your Fire TV to obtain said assets.
+Without those assets, this decompilation will not run. You have to gather this copy from your Fire TV to obtain said assets.
 
 # **The rest of the Readme hasn't been changed.**
 
