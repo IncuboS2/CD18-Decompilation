@@ -1,26 +1,13 @@
 ![](header.png?raw=true)
 
-A complete decompilation of Retro Engine v4 and the menus from Sonic 1 and 2 (2013).
+A WIP decompilation of Sonic CD '18, a official RSDKv4 port of the 2011 Sonic CD Remake.
 
-# **SUPPORT THE OFFICIAL RELEASE OF SONIC 1 & 2**
-+ Without assets from the official releases, this decompilation will not run.
+# **You have to get by yourself a copy of this version of the Sonic CD remake!**
++ Without those assets, this decompilation will not run.
 
-+ You can get official releases of Sonic 1 & Sonic 2 from:
-  * Windows
-    * Via Steam, from [Sonic Origins](https://store.steampowered.com/app/1794960)
-    * Via the Epic Games Store, from [Sonic Origins](https://store.epicgames.com/en-US/p/sonic-origins)
-  * iOS
-    * [Sonic 1, Via the App Store](https://apps.apple.com/au/app/sonic-the-hedgehog-classic/id316050001)
-    * [Sonic 2, Via the App Store](https://apps.apple.com/au/app/sonic-the-hedgehog-2-classic/id347415188)
-    * A tutorial for finding the game assets from the iOS versions can be found [here](https://gamebanana.com/tuts/14491).
-  * Android
-    * [Sonic 1, Via Google Play](https://play.google.com/store/apps/details?id=com.sega.sonic1px)
-    * [Sonic 2, Via Google Play](https://play.google.com/store/apps/details?id=com.sega.sonic2.runner)
-    * [Sonic 1, Via Amazon](https://www.amazon.com.au/Sega-of-America-Sonic-Hedgehog/dp/B00D74DVKM)
-    * [Sonic 2, Via Amazon](https://www.amazon.com.au/Sega-of-America-Sonic-Hedgehog/dp/B00HAPRVWS)
-    * A tutorial for finding the game assets from the Android versions can be found [here](https://gamebanana.com/tuts/14492).
++ You have to gather this copy from your Fire TV to obtain said assets.
 
-Even if your platform isn't supported by the official releases, you **must** buy or officially download it for the assets (you don't need to run the official release, you just need the game assets).
+# **The rest of the Readme hasn't been changed.**
 
 If you want to transfer your save(s) from the official mobile version(s), the **Android pre-forever** file path is `Android/data/com.sega.sonic1 or 2/SGame.bin` (other versions may have different file paths). Copy that file into the decompilation's folder with the name `SData.bin`.
 
