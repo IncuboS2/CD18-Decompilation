@@ -28,18 +28,23 @@ If you want to transfer your save(s) from the official mobile version(s), the **
 
 # How to Build
 
-This project uses [CMake](https://cmake.org/), a versatile building system that supports many different compilers and platforms. You can download CMake [here](https://cmake.org/download/). **(Make sure to enable the feature to add CMake to the system PATH during the installation!)**
+## General Prerequisites
+
+Before building the source, you need some prerequisites (witch apply to both Windows, Linux and Android users):
+
+ - [CMake](https://cmake.org/) (a versatile building system that supports many different compilers and platforms) **(Make sure to enable the feature to add CMake to the system PATH during the installation!)**;
+ - [Git](https://git-scm.com/downloads) (to clone the repository) **(Note: for Windows-only users, MSYS2's MINGW64 "git" package can be used as an alternative.)**;
 
 ## Get the source code
 
-**DO NOT** download the source code ZIP archive from GitHub, as they do not include the submodules required to build the decompilation.
+**DO NOT** download the source code as a ZIP archive from GitHub, as they do not include the submodules required to build the decompilation.
 
-Instead, you will need to clone the repository using Git, which you can get [here](https://git-scm.com/downloads).
+Instead, you will need to clone the repository using Git (or with the MSYS2's "git" package):
 
 Clone the repo **recursively**, using:
-`git clone --recursive https://github.com/RSDKModding/RSDKv4-Decompilation`
+`git clone --recursive https://github.com/IncuboS2/CD18-Decompilation`
 
-If you've already cloned the repo, run this command inside of the repository:
+If you've already cloned the repo but not recursively, then run this command inside of the repository:
 ```git submodule update --init --recursive```
 
 ## Getting dependencies
